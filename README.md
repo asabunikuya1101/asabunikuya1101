@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About me
+
+##Hobbies
+[![My hobbies](https://skillicons.dev/icons?i=git,github,aws,html,linux,windows,unity,vscode,obsidian,vercel)](https://skillicons.dev)
+
+## Try learning
+
+## Skills
+[![My hobbies](https://skillicons.dev/icons?i=git,github,aws,,linux,windows,unity,vscode,obsidian,vercel)]
+## What I Want to learn
+[![Try learn](https://skillicons.dev/icons?i=git,github,aws,html,linux,windows,unity,vscode,obsidian,vercel)]
